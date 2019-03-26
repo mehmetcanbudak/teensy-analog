@@ -26,6 +26,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
   * SPI bus
   * [datasheet](https://www.maximintegrated.com/en/products/analog/data-converters/analog-to-digital-converters/MAX11300.html)
 
+# analog devices DAC candidates
 |Part#|# of Channels|Resolution(bits)|Interface|Vout Range|DAC INL(max)(LSBs)|Settling Time(typ)(s p-p)|Power(typ)(W)|Price (1000+)($ US)|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |AD5766|16|16|SPI|±10V, ±5V, -10to0V, -10to6V, -12to14V, -16to0V, -16to10V, -20to0V|16|16µ|-|$35.00 (AD5766BCBZ-RL7)|
