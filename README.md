@@ -44,3 +44,5 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 |AD5754|4|16|SPI|±10V, ±10.8V, ±12V, ±5V, 0to10V, 0to10.8V, 0to5V|$10.35 (AD5754AREZ)|
 |LTC2704-16|4|16|SPI|±10V, ±2.5V, ±5V, 0to10V, 0to5V, -2.5to7.5V|$29.95 (LTC2704CGW-16#PBF)|
 |AD5764|4|16|SPI|±10.5V, ±14V|$23.33 (AD5764ASUZ)|
+|AD5765|4|16|SPI|±4.096 V, ±4.201 V, ±4.311 V, ±4.421 V|$19.52 (AD5765CSUZ)|
+|AD5544|4|16|SPI|-|$21.23 (AD5544ARSZ)|
