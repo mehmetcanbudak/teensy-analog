@@ -11,3 +11,6 @@ DAS - data-acquisition system,
   * Single 5 V analog supply and 2.3 V to 5 V VDRIVE
   * [datasheet](https://www.plexishop.it/pdf/AD7606.pdf)
 * MAX11300
+  * 20-Port Programmable Mixed-Signal I/O with 12-Bit ADC, 12-Bit DAC, Analog Switches, and GPIO  
+  * SPI bus
+  * [datasheet](https://www.maximintegrated.com/en/products/analog/data-converters/analog-to-digital-converters/MAX11300.html)
