@@ -29,7 +29,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 # analog devices DAC candidates
   * [bipolar-da-converters](https://www.analog.com/en/products/digital-to-analog-converters/standard-dac/precision-dac/bipolar-da-converters.html)
 
-|Part# |Channels|Resolution(bits)|Interface|Vout Range|Price (1000+)($ US)|
+|Part# |Channels|Resolution(bits)|Interface|Vout Range|Price|
 |--- |--- |--- |--- |--- |--- |
 |AD5766|16|16|SPI|±10V, ±5V, -10to0V, -10to6V, -12to14V, -16to0V, -16to10V, -20to0V|$35.00 (AD5766BCBZ-RL7)|
 |LTC2664-16|4|16|SPI|±10V, ±2.5V, ±5V, 0to10V, 0to5V|$15.60 (LTC2664CUH-16#PBF)|
