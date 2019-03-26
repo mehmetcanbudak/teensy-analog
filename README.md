@@ -6,7 +6,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 # audio-class 
 # control-voltage class
 ## ADC
-* Analog Devices
+* [Analog Devices precision dac](https://www.analog.com/en/products/digital-to-analog-converters/standard-dac/precision-dac/bipolar-da-converters.html)
   * [AD7606](https://www.analog.com/en/products/ad7606-6.html) 
     * 8-/6-/4-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC  
     * analog input ranges: ±10 V, ±5 V
