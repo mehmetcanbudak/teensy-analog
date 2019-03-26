@@ -1,10 +1,11 @@
 # teensy-analog
 Notes and ideas about how to interface teensy mcu with analog in/out
 
-DAS - data-acquisition system,
+*( * DAS - data-acquisition system)*
 
 # audio-class 
 # control-voltage class
+## ADC
 * Analog Devices
   * [AD7606](https://www.analog.com/en/products/ad7606-6.html) 
     * 8-/6-/4-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC  
@@ -14,6 +15,12 @@ DAS - data-acquisition system,
   * [AD7608](https://www.analog.com/en/products/ad7608.html)
     * 8-Channel DAS with 18-Bit, Bipolar, Simultaneous Sampling ADC
     * [datasheet](https://www.analog.com/en/products/ad7608.html)
+## DAC
+* [AD5362](https://www.analog.com/en/products/ad5362.html)
+  * 8-Channel, 16-Bit, Serial Input, Voltage-Output DAC
+  * output voltage range of -10 V to +10 V
+  
+## DAS
 * MAX11300
   * 20-Port Programmable Mixed-Signal I/O with 12-Bit ADC, 12-Bit DAC, Analog Switches, and GPIO  
   * SPI bus
