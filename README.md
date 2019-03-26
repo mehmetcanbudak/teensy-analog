@@ -10,7 +10,7 @@ DAS - data-acquisition system,
   * Single 5 V analog supply and 2.3 V to 5 V VDRIVE
   * [datasheet](https://www.plexishop.it/pdf/AD7606.pdf)
 * ad7608 - 8-Channel DAS with 18-Bit, Bipolar, Simultaneous Sampling ADC
- * [datasheet](https://www.analog.com/en/products/ad7608.html)
+  * [datasheet](https://www.analog.com/en/products/ad7608.html)
 * MAX11300
   * 20-Port Programmable Mixed-Signal I/O with 12-Bit ADC, 12-Bit DAC, Analog Switches, and GPIO  
   * SPI bus
