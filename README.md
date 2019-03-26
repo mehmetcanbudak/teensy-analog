@@ -19,7 +19,14 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 * [AD5362](https://www.analog.com/en/products/ad5362.html)
   * 8-Channel, 16-Bit, Serial Input, Voltage-Output DAC
   * output voltage range of -10 V to +10 V
-  
+* [AD5754R](https://www.analog.com/en/products/ad5754r.html)	
+  * 4 channel 
+  * 16-bit D/A converter
+  * Operates from single/dual supplies
+  * Software programmable output range
+    * +5 V, +10 V, +10.8 V, ±5 V, ±10 V, ±10.8 V
+  * [dataheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5724r_5734r_5754r.pdf)
+
 ## DAS
 * MAX11300
   * 20-Port Programmable Mixed-Signal I/O with 12-Bit ADC, 12-Bit DAC, Analog Switches, and GPIO  
