@@ -31,6 +31,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 
 |Part# |Channels|Resolution(bits)|Interface|Vout Range|Price|
 |--- |--- |--- |--- |--- |--- |
+| AD5362 | 8 |	16 |	SPI |	Vsupply Neg+1.4VtoVsupply-1.4V |$24.92 (AD5362BCPZ)|
 |AD5766|16|16|SPI|±10V, ±5V, -10to0V, -10to6V, -12to14V, -16to0V, -16to10V, -20to0V|$35.00 (AD5766BCBZ-RL7)|
 |LTC2664-16|4|16|SPI|±10V, ±2.5V, ±5V, 0to10V, 0to5V|$15.60 (LTC2664CUH-16#PBF)|
 |LTC2666-16|8|16|SPI|±10V, ±2.5V, ±5V, 0to10V, 0to5V|$21.75 (LTC2666CUH-16#PBF)|
