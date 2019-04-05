@@ -12,6 +12,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
     * analog input ranges: ±10 V, ±5 V
     * Single 5 V analog supply and 2.3 V to 5 V VDRIVE
     * [datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf)
+    * QFP64 packaging
   * [AD7608](https://www.analog.com/en/products/ad7608.html)
     * 8-Channel DAS with 18-Bit, Bipolar, Simultaneous Sampling ADC
     * [datasheet](https://www.analog.com/en/products/ad7608.html)
@@ -26,6 +27,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
   * Software programmable output range
     * +5 V, +10 V, +10.8 V, ±5 V, ±10 V, ±10.8 V
   * [dataheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5724r_5734r_5754r.pdf)
+  * TSSOP24 (exposed pads) packaging
 
 ## DAS
 * MAX11300
