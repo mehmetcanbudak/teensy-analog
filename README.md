@@ -39,7 +39,7 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 # connectors 
 * vertical female connectors on [octopart](https://octopart.com/search?category_ids=5142&specs2.92.values=Female&start=0&specs2.20.values=Through%20Hole&specs2.523.values=Vertical)
 * ACJS-MV35-5
-* https://sdiy.info/wiki/Eurorack_DIY_panel_components#3.5mm_jack_sockets
+* [3.5mm_jack_sockets on sdiy](https://sdiy.info/wiki/Eurorack_DIY_panel_components#3.5mm_jack_sockets)
 
 # analog devices DAC candidates
   * [bipolar-da-converters](https://www.analog.com/en/products/digital-to-analog-converters/standard-dac/precision-dac/bipolar-da-converters.html)
