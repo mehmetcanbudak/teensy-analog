@@ -41,6 +41,9 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 * ACJS-MV35-5
 * [3.5mm_jack_sockets on sdiy](https://sdiy.info/wiki/Eurorack_DIY_panel_components#3.5mm_jack_sockets)
 
+# switching jacks
+* [understanding-audio-jack-switches-and-schematics](https://www.cui.com/blog/understanding-audio-jack-switches-and-schematics)
+
 # analog devices DAC candidates
   * [bipolar-da-converters](https://www.analog.com/en/products/digital-to-analog-converters/standard-dac/precision-dac/bipolar-da-converters.html)
 
