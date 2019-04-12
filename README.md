@@ -44,6 +44,9 @@ Notes and ideas about how to interface teensy mcu with analog in/out
 # switching jacks
 * [understanding-audio-jack-switches-and-schematics](https://www.cui.com/blog/understanding-audio-jack-switches-and-schematics)
 
+# fixture testing
+* [openfixture](https://github.com/tinylabs/openfixture)
+
 # analog devices DAC candidates
   * [bipolar-da-converters](https://www.analog.com/en/products/digital-to-analog-converters/standard-dac/precision-dac/bipolar-da-converters.html)
 
